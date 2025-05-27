@@ -1,7 +1,7 @@
 # Personal-Portfolio
 Convert the previous simple HTML website into a personal portfolio.
 # In this Project, I will CSS the simple HTML website
-simple HTML website: https://github.com/trungthanh01/Basic-HTML-Website
+[simple HTML website: https://github.com/trungthanh01/Basic-HTML-Website](https://roadmap.sh/projects/portfolio-website)
 # Note
 1. Design detail is not important
 2. Not beautiful design but if i can be that's fine
